@@ -18,4 +18,5 @@ function Hex2Dec (input) {
     console.log(result);
 }
 Hex2Dec('1AE3'); //6883
-Hex2Dec('4ED528CBB4'); //338583669684
+Hex2Dec('4ED528CBB4');
+Hex2Dec('FE'); //338583669684
